@@ -1,0 +1,1 @@
+The sql database is located in the SimpleSqlC++ folder with the cpp file.
